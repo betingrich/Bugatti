@@ -1,10 +1,10 @@
 ## JOEL MD 2024
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+joel+md+Created+by+joelkang'oma.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/f6f87be6efcbe269eed40.jpg">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳+𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚+𝑴𝑨𝑹𝑰𝑺𝑬𝑳;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
+ <img alt="King Marisel" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
   
 </h1> 
-<p align="center">l introduce <b>JOEL MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>KING MARISEL</b>, a powerful simple WhatsApp bot </p>
 
 
     
@@ -19,7 +19,7 @@
 
 
 
-## HOW TO DEPLOY JOEL MD
+## 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
 
 
 ## 1.FIRST STEP 
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
-star✨ my repo if you like this bot🤖
+𝑺𝑻𝑨𝑹 𝑻𝑯𝑬 𝑹𝑬𝑷𝑶 𝑨𝑵𝑫 𝑭𝑶𝑹𝑲
 
 
 ## 2.SECOND STEP 
@@ -70,14 +70,14 @@ THANKS TO
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.link/e9lbut" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ joel tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ JOEL  MD   CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 
