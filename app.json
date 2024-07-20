@@ -1,8 +1,8 @@
 {
-  "name":"JOEL MD NEW UPDATE",
-  "description":"bot whatsapp développéd by joel tech",
+  "name":"𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍",
+  "description":"𝑨𝒎𝒐𝒏𝒈 𝒕𝒉𝒆 𝑪𝒉𝒂𝒎𝒑𝒊𝒐𝒏𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/f281d0f0fa61e93b16539.jpg",
+  "logo":"https://telegra.ph/file/3b20d3e67948683aff867.jpg",
   "repository":"https://github.com/HACKING995/HACKING956",
   "succes_url":"/",
   "stack":"container",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"JOEL MD",
+      "value":"𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "joel tech"
+    "value": "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255714595078"
+    "value": "254740007567"
   },
     "WARN_COUNT":
   {
