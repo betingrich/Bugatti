@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━𒈒JOEL MD 2024 ━━┓
+┏━━𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
-┣━𒈒joel md new vision 𒈒━➠
-┗━━━𒈒by joel tech 𒈒━━┛\n\n`;
+┣━      𝑴𝑨𝑹𝑰𝑺𝑬𝑳━➠
+┗━━━𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏joel md bot 
-┣❏©joel _it🕷️
+┣❏𝑲𝑰𝑵𝑮𝑴𝑨𝑹𝑰𝑺𝑬𝑳
+┣❏𝑴𝒚 𝑷𝒐𝒘𝒆𝒓𝑹𝒆𝒊𝒈𝒉𝒏𝒔
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-𒈒joel md cmds𒈒
+☆𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍☆
 `;
 
 
@@ -112,13 +112,13 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏joel md bot 
-┣❏© by joel tech 
+️┣❏𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
+┣❏© 𝑴𝒂𝒓𝒊𝒔𝒆𝒍 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒊𝒕
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃powered by joeltech
+┃𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑴𝒂𝒓𝒊𝒔𝒆𝒍
 ┗━━━━━━━━━━━━━━┛\n
 
 
