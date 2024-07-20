@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("reject the finance bill in Kenya🇿🇦") ; return};
+        if(!superUser) { repondre("𝑨𝑵𝑮𝑼𝑲𝑨 𝑵𝑨𝒀𝑶") ; return};
 
-      await   repondre("*join ganz official channel to reject the finance bill and shit in Kenya🇿🇦 https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M ");
-         repondre("don't do fake thinks i mean reject the finance bill in Kenya 🇿🇦:)")
+      await   repondre("*𝑨𝑵𝑮𝑼𝑲𝑨 𝑵𝑨𝒀𝑶 https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
+         repondre("𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳:)")
      }
  } else {
 
-    if(!superUser) { repondre ("I am alive to reject the finance bill in Kenya🇿🇦") ; return};
+    if(!superUser) { repondre ("𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
