@@ -138,7 +138,7 @@ zokou(
         let menu = `${mono}Hello ${ms.pushName}
 ${timewisher(time)}
 
-┏❏ ⌜ JOEL-MD BUGS  ⌟  ❐
+┏❏ ⌜ 𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍 𝑩𝒖𝒈𝒔 ⌟  ❐
 ┃⎔ bug
 ┃⎔ crash
 ┃⎔ loccrash
@@ -191,7 +191,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g",
+                                        "https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
