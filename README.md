@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/bettingrich"><img title="Author" src="https://img.shields.io/badge/bettingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/bettingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/betingrich/King/tree/main?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
