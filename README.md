@@ -2,7 +2,7 @@
  <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳+𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚+𝑴𝑨𝑹𝑰𝑺𝑬𝑳;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
- <img alt="𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
+ <img alt=" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
  </p>
 </h1> 
 <p align="center"> 𝑰𝑵𝑻𝑹𝑶𝑫𝑼𝑪𝑰𝑵𝑮 <b>𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳</b>,𝑻𝑯𝑬 𝑩𝑬𝑺𝑻 𝑩𝑶𝑻 𝑨𝑴𝑶𝑵𝑮 𝑻𝑯𝑬 𝑪𝑯𝑨𝑴𝑷𝑰𝑶𝑵 𝑩𝑶𝑻𝑺</p>
@@ -61,7 +61,7 @@
 <p align="center"> 
 <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-
+<p align="center">
 <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   𝑲𝑶𝒀𝑬𝑩 -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 
@@ -73,13 +73,13 @@
 <p align="center">
  𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺
 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑴𝑬 𝑩𝑬𝑳𝑳𝑶𝑾
-
+<p align="center">
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ King Marisel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
- 
+ <p align="center">
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
