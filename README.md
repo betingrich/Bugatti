@@ -25,7 +25,7 @@
 ## 1.FIRST STEP 
 
 
-<a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/betingrich/King/tree/main/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 𝑺𝑻𝑨𝑹 𝑻𝑯𝑬 𝑹𝑬𝑷𝑶 𝑨𝑵𝑫 𝑭𝑶𝑹𝑲
 
@@ -49,7 +49,7 @@
 DEPLOY ON 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/joeljamestech/JOEL-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-H EROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-H EROKU-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
  
@@ -71,7 +71,7 @@ THANKS TO
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ joel tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ King Marisel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
