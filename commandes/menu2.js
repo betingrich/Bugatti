@@ -33,9 +33,9 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     
     
       
-    ╚═════ ▓▓ ࿇ ▓▓ ═════╝*/
+    ╚═════ 𓃵࿇ 𓃵═════╝*/
     /* menuMsg+=`
-   ╔════ ▓▓ ࿇ ▓▓ ════╗
+   ╔════ 𓃵࿇ 𓃵 ════╗
    
    ||
    ||     Préfixe : ${s.prefixe}
@@ -44,7 +44,7 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
    ||      Date : ${date}
    ||      Heure : ${temps}
    ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Développeurs : joel tech++||best coder 
+   ||  Développeurs : King Marisel+|
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
@@ -67,7 +67,7 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://telegra.ph/file/94ff2d14a8be266434db6.jpg";
+    var link = "https://telegra.ph/file/3b20d3e67948683aff867.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©JOEL INC" }, { quoted: ms });
     }
