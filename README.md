@@ -1,10 +1,21 @@
-## 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
- <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳+𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚+𝑴𝑨𝑹𝑰𝑺𝑬𝑳;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
- <img alt=" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
- </p>
-</h1> 
+## 
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
+    <h1 align="center">𓃵𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳</h1>
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/bettingrich"><img title="Author" src="https://img.shields.io/badge/bettingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/bettingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/bettingrich?label=Followers&style=social"></a>
+<a href="https://github.com/bettingrich/King/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bettingrich/King?&style=social"></a>
+<a href="https://github.com/bettingrich/King/network/members"><img title="Fork" src="https://img.shields.io/github/forks/bettingrich/King?style=social"></a>
+<a href="https://github.com/bettingrich/King/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bettingrich/King?label=Watching&style=social"></a>
+</p>></a>                     
+
+   <h1 align="center" 
 <p align="center"> 𝑰𝑵𝑻𝑹𝑶𝑫𝑼𝑪𝑰𝑵𝑮 <b>𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳</b>,𝑻𝑯𝑬 𝑩𝑬𝑺𝑻 𝑩𝑶𝑻 𝑨𝑴𝑶𝑵𝑮 𝑻𝑯𝑬 𝑪𝑯𝑨𝑴𝑷𝑰𝑶𝑵 𝑩𝑶𝑻𝑺</p>
 
 
