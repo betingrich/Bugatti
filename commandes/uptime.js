@@ -20,7 +20,7 @@ const runtime = function (seconds) {
 zokou({ nomCom: 'uptime',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '⚙️', 
+    reaction: '☆', 
     fromMe: 'true', 
 
 
@@ -40,7 +40,7 @@ zokou({ nomCom: 'uptime',
 zokou({ nomCom: 'ss',
     desc: 'screenshots website',
     Categorie: 'General',
-    reaction: '🎥', 
+    reaction: '♕', 
     fromMe: 'true', 
 
 },
