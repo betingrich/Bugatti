@@ -27,7 +27,7 @@
 ## 1.𝑭𝑰𝑹𝑺𝑻 𝑺𝑻𝑬𝑷
 
 <p align="center">
-<a href="https://github.com/betingrich/King/tree/main/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑭𝑶𝑹𝑲 𝑻𝑯𝑰𝑺 𝑹𝑬𝑷𝑶-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/betingrich/King/tree/main/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑭𝑶𝑹𝑲 𝑻𝑯𝑰𝑺 𝑹𝑬𝑷𝑶-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@
  
 
 <p align="center">
-<a href="https://joelsession1-4a8c04ad2935.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑸𝑹 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://joelsession1-4a8c04ad2935.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑸𝑹 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
  
 <p align="center">
-<a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
 <p align="center">
 ## 3.𝑻𝑯𝑰𝑹𝑫 𝑺𝑻𝑬𝑷
@@ -55,14 +55,14 @@
 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵
 <p align="center">
  <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑯𝑬𝑹𝑶𝑲𝑼-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑯𝑬𝑹𝑶𝑲𝑼-purple?style=for-the-badge&logo=heroku&logoColor=white"width="220" height="38.45"/></a>
 
 
 <p align="center"> 
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white"width="220" height="38.45"/></a>
 
 <p align="center">
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   𝑲𝑶𝒀𝑬𝑩 -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   𝑲𝑶𝒀𝑬𝑩 -red?style=for-the-badge&logo=koyeb&logoColor=white"width="220" height="38.45"/></a>
 
 
 
@@ -75,13 +75,13 @@
 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑴𝑬 𝑩𝑬𝑳𝑳𝑶𝑾
 <p align="center">
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ King Marisel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ King Marisel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220" height="38.45"/>
 
 
   
  <p align="center">
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220" height="38.45"/>
  
 
 </p>
