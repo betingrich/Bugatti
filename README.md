@@ -9,10 +9,10 @@
 <a href="https://github.com/bettingrich"><img title="Author" src="https://img.shields.io/badge/bettingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/bettingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/bettingrich?label=Followers&style=social"></a>
-<a href="https://github.com/bettingrich/King/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bettingrich/King?&style=social"></a>
-<a href="https://github.com/bettingrich/King/network/members"><img title="Fork" src="https://img.shields.io/github/forks/bettingrich/King?style=social"></a>
-<a href="https://github.com/bettingrich/King/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bettingrich/King?label=Watching&style=social"></a>
+<a href="https://github.com/betingrich/King/tree/main?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/bettingrich?label=Followers&style=social"></a>
+<a href="https://github.com/betingrich/King/tree/main/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bettingrich/King?&style=social"></a>
+<a href="https://github.com/betingrich/King/tree/main/network/members"><img title="Fork" src="https://img.shields.io/github/forks/bettingrich/King?style=social"></a>
+<a href="https://github.com/betingrich/King/tree/main/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bettingrich/King?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center" 
@@ -31,11 +31,11 @@
 
 
 <p align="center">
-## 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
+ 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
 
 
 <p align="center">
-## 1.𝑭𝑰𝑹𝑺𝑻 𝑺𝑻𝑬𝑷
+1.𝑭𝑰𝑹𝑺𝑻 𝑺𝑻𝑬𝑷
 
 <p align="center">
 <a href="https://github.com/betingrich/King/tree/main/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑭𝑶𝑹𝑲 𝑻𝑯𝑰𝑺 𝑹𝑬𝑷𝑶-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -46,7 +46,7 @@
 
 
 <p align="center">
-## 2.𝑺𝑬𝑪𝑶𝑵𝑫 𝑺𝑻𝑬𝑷
+ 2.𝑺𝑬𝑪𝑶𝑵𝑫 𝑺𝑻𝑬𝑷
 
 <p align="center">
  𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑮𝑬𝑻 𝒀𝑶𝑼𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵
@@ -60,7 +60,7 @@
 <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
 <p align="center">
-## 3.𝑻𝑯𝑰𝑹𝑫 𝑺𝑻𝑬𝑷
+3.𝑻𝑯𝑰𝑹𝑫 𝑺𝑻𝑬𝑷
 
 <p align="center">
 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵
