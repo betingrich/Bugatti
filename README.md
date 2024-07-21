@@ -53,11 +53,11 @@
  
 
 <p align="center">
-<a href="https://sessionscan-04c44ec7176a.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑸𝑹 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑸𝑹 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
  
 <p align="center">
-<a href="https://sessionscan-04c44ec7176a.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
 <p align="center">
 3.𝑻𝑯𝑰𝑹𝑫 𝑺𝑻𝑬𝑷
