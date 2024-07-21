@@ -53,12 +53,12 @@
 
 <p align="center">
 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵
-
+<p align="center">
  <a
       href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑯𝑬𝑹𝑶𝑲𝑼-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
- 
+<p align="center"> 
 <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 
@@ -70,7 +70,8 @@
 
 
 
-𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺
+<p align="center">
+ 𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺
 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑴𝑬 𝑩𝑬𝑳𝑳𝑶𝑾
 
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
@@ -83,6 +84,6 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
-
+</p>
      
 
