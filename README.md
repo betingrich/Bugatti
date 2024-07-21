@@ -23,18 +23,21 @@
 ## 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
 
 
+<p align="center">
 ## 1.𝑭𝑰𝑹𝑺𝑻 𝑺𝑻𝑬𝑷
 
-
+<p align="center">
 <a href="https://github.com/betingrich/King/tree/main/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑭𝑶𝑹𝑲 𝑻𝑯𝑰𝑺 𝑹𝑬𝑷𝑶-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 </p>
 
+<p align="center">
 𝑺𝑻𝑨𝑹 𝑻𝑯𝑬 𝑹𝑬𝑷𝑶 𝑨𝑵𝑫 𝑭𝑶𝑹𝑲
 
 
+<p align="center">
 ## 2.𝑺𝑬𝑪𝑶𝑵𝑫 𝑺𝑻𝑬𝑷
 
-
+<p align="center">
  𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑮𝑬𝑻 𝒀𝑶𝑼𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵
  
 
@@ -45,10 +48,10 @@
 <p align="center">
 <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 </p>
-
+<p align="center">
 ## 3.𝑻𝑯𝑰𝑹𝑫 𝑺𝑻𝑬𝑷
 
-
+<p align="center">
 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵
 
  <a
