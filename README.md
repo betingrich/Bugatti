@@ -81,20 +81,18 @@
 
 
 
-<p align="center">
+
  𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺
 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑴𝑬 𝑩𝑬𝑳𝑳𝑶𝑾
-<p align="center">
+
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ King Marisel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220" height="38.45"/>
 
 
   
- <p align="center">
+
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220" height="38.45"/>
  
-
-</p>
      
 
