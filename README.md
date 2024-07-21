@@ -1,4 +1,4 @@
-## JOEL MD 2024
+## 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳+𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚+𝑴𝑨𝑹𝑰𝑺𝑬𝑳;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
  <img alt="King Marisel" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
@@ -33,7 +33,7 @@
 ## 2.SECOND STEP 
 
 
- GET SESSION ID BY
+ 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑮𝑬𝑻 𝒀𝑶𝑼𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵
  
 
 <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
