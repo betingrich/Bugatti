@@ -55,14 +55,14 @@
 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵
 <p align="center">
  <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑯𝑬𝑹𝑶𝑲𝑼-purple?style=for-the-badge&logo=heroku&logoColor=white"width="220" height="38.45"/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑯𝑬𝑹𝑶𝑲𝑼-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 <p align="center"> 
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white"width="220" height="38.45"/></a>
+<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 <p align="center">
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   𝑲𝑶𝒀𝑬𝑩 -red?style=for-the-badge&logo=koyeb&logoColor=white"width="220" height="38.45"/></a>
+<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   𝑲𝑶𝒀𝑬𝑩 -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 
 
