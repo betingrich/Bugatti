@@ -1,16 +1,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## BUGATTI 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SCENE+MD+;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BUGATTI+;A+WHATSAPP+BOT;CREATED+BY+MARISEL+KING" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
 | 
-| [![Marisel](https://telegra.ph/file/e59d381c89f105de86dc2.jpg?lenght=50width=50)](https://github.com/Beltahtech
+| [![Marisel](https://telegra.ph/file/e59d381c89f105de86dc2.jpg?lenght=50width=50)]
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SCENE-MD+100%+Is+Safe+on+Heroku" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BUGATI+Is+Safe+on+Heroku" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MARISEL-red.svg?style=for-the-badge&logo=github"></a>
