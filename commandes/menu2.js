@@ -67,7 +67,7 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://telegra.ph/file/3b20d3e67948683aff867.jpg";
+    var link = "https://telegra.ph/file/ddfdaa083ff7e1ca30b10.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©JOEL INC" }, { quoted: ms });
     }
