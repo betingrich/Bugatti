@@ -5,9 +5,8 @@
   </p>
 <div align="center">
 
-| 
-| [![Marisel](https://telegra.ph/file/e59d381c89f105de86dc2.jpg?lenght=50width=50)]
-|----|
+
+ [![Marisel](https://telegra.ph/file/e59d381c89f105de86dc2.jpg?lenght=50width=50)]
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BUGATI+Is+Safe+on+Heroku" alt="">
