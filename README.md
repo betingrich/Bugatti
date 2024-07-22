@@ -5,7 +5,7 @@
   </p>
 <div align="center">
 
-| [![BUGATI](https:(https://telegra.ph/file/ddfdaa083ff7e1ca30b10.jpg(https://github.com/betingrich)|
+| [![BUGATI](https://telegra.ph/file/ddfdaa083ff7e1ca30b10.jpg(https://github.com/betingrich)|
 |----|
 
 <p align="center">
