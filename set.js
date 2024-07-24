@@ -13,7 +13,7 @@ module.exports = { session: process.env.SESSION_ID || 'zokk',
     NUMERO_OWNER : process.env.NUMERO_OWNER || "25440007567",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    BOT : process.env.BOT_NAME || 'BEST CODER MD',
+    BOT : process.env.BOT_NAME || '𝑩𝑼𝑮𝑨𝑻𝑻𝑰',
     URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/e59d381c89f105de86dc2.jpg.https://telegra.ph/file/a2b24ed5447888b7fdf28.jpg.https://telegra.ph/file/ee29736dc8aa587cdf145.jpg',
     MODE: process.env.PUBLIC_MODE || "no",
                   
