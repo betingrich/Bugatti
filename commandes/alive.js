@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("𝑨𝑵𝑮𝑼𝑲𝑨 𝑵𝑨𝒀𝑶") ; return};
+        if(!superUser) { repondre("𝑩𝑼𝑮𝑨𝑻𝑻𝑰") ; return};
 
-      await   repondre("*𝑨𝑵𝑮𝑼𝑲𝑨 𝑵𝑨𝒀𝑶 https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
-         repondre("𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳:)")
+      await   repondre("*𝑩𝑼𝑮𝑨𝑻𝑻𝑰 https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
+         repondre("𝑩𝑼𝑮𝑨𝑻𝑻𝑰:)")
      }
  } else {
 
-    if(!superUser) { repondre ("𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺") ; return};
+    if(!superUser) { repondre ("𝑩𝑼𝑮𝑨𝑻𝑻𝑰 ") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' join ganz official channel to reject the finance bill and shit in Kenya🇿🇦 https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M🇿🇦. ')
+repondre(' https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x. ')
 
 }
     });
