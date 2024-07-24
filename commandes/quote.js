@@ -13,7 +13,7 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Hacking-md               ║
+║   𝑩𝑼𝑮𝑨𝑻𝑻𝑰                    ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
@@ -33,7 +33,7 @@ Powered by Hacking-MD`);
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Hacking-md               ║
+║   𝑩𝑼𝑮𝑨𝑻𝑻𝑰              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
