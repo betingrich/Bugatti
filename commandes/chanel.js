@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Salut je m\'appelle *𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
+    let z = 'Salut je m\'appelle *𝑩𝑼𝑮𝑨𝑻𝑻𝑰* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
     let d = ' developpé par *𝑴𝒂𝒓𝒊𝒔𝒆𝒍 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒊𝒕☆*';
     let varmess = z + d;
     var lien = 'https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x';  // Remplacez cet URL par le lien que vous souhaitez envoyer
