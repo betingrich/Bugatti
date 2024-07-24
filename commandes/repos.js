@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://github.com/betingrich/Rich';
-  const img = 'https://telegra.ph/file/3b20d3e67948683aff867.jpg';
+  const img = 'https://telegra.ph/file/ee29736dc8aa587cdf145.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *joel-md.*\n get session id *by*, *pairing code*  https://joelsession1-4a8c04ad2935.herokuapp.com/pair/
+this is* *𝑩𝑼𝑮𝑨𝑻𝑻𝑰.*\n get session id *by*, *pairing code*  https://joelsession1-4a8c04ad2935.herokuapp.com/pair/
 
 🕷️ *REPOSITORY:* ${data.html_url}
 🕷️ *STARS:* ${repoInfo.stars}
@@ -31,7 +31,7 @@ this is* *joel-md.*\n get session id *by*, *pairing code*  https://joelsession1-
 🕷️ *UPDATE ON:* ${repoInfo.lastUpdate}
 🕷️ *OWNER:* *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳*
 __________________________________
-            *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳 𝑪𝑹𝑬𝑨𝑻𝑰𝑶𝑵*`;
+            *𝑩𝑼𝑮𝑨𝑻𝑻𝑰 𝑪𝑹𝑬𝑨𝑻𝑰𝑶𝑵*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
