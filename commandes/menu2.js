@@ -33,9 +33,9 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     
     
       
-    ╚═════ 𓃵࿇ 𓃵═════╝*/
+    ╚═════ ࿇ ═════╝*/
     /* menuMsg+=`
-   ╔════ 𓃵࿇ 𓃵 ════╗
+   ╔════ ࿇ ════╗
    
    ||
    ||     Préfixe : ${s.prefixe}
@@ -69,7 +69,7 @@ zokou({ nomCom: "joel", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     var link = "https://telegra.ph/file/ddfdaa083ff7e1ca30b10.jpg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©JOEL INC" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©𝑩𝑼𝑮𝑨𝑻𝑻𝑰" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
