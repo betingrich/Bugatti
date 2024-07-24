@@ -1,98 +1,129 @@
-## 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BUGATTI+;A+WHATSAPP+BOT;CREATED+BY+MARISEL+KING" alt="Typing SVG" /></a>
+
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3b20d3e67948683aff867.jpg">
-    <h1 align="center">𓃵𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳</h1>
+  <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/e59d381c89f105de86dc2.jpg">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <h1 align="center">BUGATTI</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<a href="https://github.com/betingrich/King/tree/main?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/King/tree/main/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/King?&style=social"></a>
-<a href="https://github.com/betingrich/King/tree/main/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/King?style=social"></a>
-<a href="https://github.com/betingrich/King/tree/main/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/King?label=Watching&style=social"></a>
+<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/King?&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/King?style=social"></a>
+<a href="https://github.com/betingrich/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/King?label=Watching&style=social"></a>
 </p>></a>                     
 
-   <h1 align="center" 
-<p align="center"> 𝑰𝑵𝑻𝑹𝑶𝑫𝑼𝑪𝑰𝑵𝑮 <b>𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳</b>,𝑻𝑯𝑬 𝑩𝑬𝑺𝑻 𝑩𝑶𝑻 𝑨𝑴𝑶𝑵𝑮 𝑻𝑯𝑬 𝑪𝑯𝑨𝑴𝑷𝑰𝑶𝑵 𝑩𝑶𝑻𝑺</p>
-
-
-    
- 
- 
+   <h1 align="center"                  
 
 
 
----
+***
 
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</a></p>
+- <a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
-<p align="center">
- 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑫𝑬𝑷𝑳𝑶𝒀 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳
 
+- <a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
-<p align="center">
-1.𝑭𝑰𝑹𝑺𝑻 𝑺𝑻𝑬𝑷
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center">
-<a href="https://github.com/betingrich/King/tree/main/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑭𝑶𝑹𝑲 𝑻𝑯𝑰𝑺 𝑹𝑬𝑷𝑶-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 </p>
 
-<p align="center">
-𝑺𝑻𝑨𝑹 𝑻𝑯𝑬 𝑹𝑬𝑷𝑶 𝑨𝑵𝑫 𝑭𝑶𝑹𝑲
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/JEEP&template=https://github.com/betingrich/King"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
-<p align="center">
- 2.𝑺𝑬𝑪𝑶𝑵𝑫 𝑺𝑻𝑬𝑷
 
-<p align="center">
- 𝑯𝑬𝑹𝑬 𝑰𝑺 𝑯𝑶𝑾 𝑻𝑶 𝑮𝑬𝑻 𝒀𝑶𝑼𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵
- 
+- <a href="https://toystack.ai/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON TOYSTACK-h?color=orange&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
-<p align="center">
-<a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑸𝑹 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+- <a href="https://www.clever-cloud.com/"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON CLEVER-h?color=black&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
 </p>
- 
-<p align="center">
-<a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝑷𝑨𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
 </p>
-<p align="center">
-3.𝑻𝑯𝑰𝑹𝑫 𝑺𝑻𝑬𝑷
 
-<p align="center">
-𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵
-<p align="center">
- <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/betingrich/King/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝑯𝑬𝑹𝑶𝑲𝑼-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+- <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+</p>
+
+- <a href="https://github.com/betingrich/JEEP"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
-<p align="center"> 
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/- 𝑹𝑨𝑰𝑳𝑾𝑨𝒀-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</p>
+   
+##
 
-<p align="center">
-<a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   𝑲𝑶𝒀𝑬𝑩 -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-
-
-
-
-
-
-
- 𝑻𝑯𝑬 𝑲𝑰𝑵𝑮 𝑹𝑬𝑰𝑮𝑯𝑵𝑺
-𝑪𝑶𝑵𝑻𝑨𝑪𝑻 𝑴𝑬 𝑩𝑬𝑳𝑳𝑶𝑾
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ King Marisel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220" height="38.45"/>
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+
+HOW TO REACH THE OWNER? 
+ 
+   
+   <a href="https://wa.me/254740007567">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
+
+    ## Ask any thing
+
+</p>
+
+## STEPS TO DEPLOY YOUR BOT
+
+
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/JEEP/fork)
+
+2, TAP ON GET SESSIONS
+
+
+
+3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+
+
+
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
+
+</p>
+
+
+
+
 
 
   
 
-<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ KING MARISEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="220" height="38.45"/>
- 
-     
+</p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Contributions
+
+
+Contributions to *BUGATTI* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+## THANKS TO [GOD]
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## License
+
+The *BUGATTI* is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the *BUGATTI*  to enhance your Whatsapp more enjoyable
+☣Powered by King Marisel 
+.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
