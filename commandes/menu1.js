@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ 𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍
+┏❏ 𝑩𝑼𝑮𝑨𝑻𝑻𝑰
 ┃ ⿻Mode: ${mode}
 ┃ ⿻User:${s.OWNER_NAME}
 ┃ ⿻Library : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍
+┣𝑩𝒖𝒈𝒂𝒕𝒕𝒊
 ┗━━━━━━━━━┛\n
 
 
@@ -113,8 +113,8 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒓𝒍
-┣❏ 𝑴𝒂𝒓𝒊𝒔𝒆𝒍 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑴𝒆 
+️┣❏𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍
+┣❏ 𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 
 ┗┳━━━━━━━━━━━━┳┛
 ┏┻━━━━━━━━━━━━┻┓
 ┃𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍☆
@@ -133,7 +133,7 @@ let menuMsg = `
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TKM-BOT*, déveloper Cod3uchiha" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝒃𝒖𝒈𝒂𝒕𝒕𝒊*, déveloper Cod3uchiha" , gifPlayback : true }, { quoted: ms });
 
     }
 
@@ -153,7 +153,7 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
 
     try {
 
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TKM-bot*, déveloper cod3uchiha" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *𝒃𝒖𝒈𝒂𝒕𝒕𝒊*, déveloper cod3uchiha" }, { quoted: ms });
 
     }
 
