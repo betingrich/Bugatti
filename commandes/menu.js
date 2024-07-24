@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰━━━┓
+┏━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
