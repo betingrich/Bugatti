@@ -30,7 +30,7 @@ zokou({
        
       let infoMess = {
   image: { url: videos[0].thumbnail },
-  caption: `╭━━Bugattidownloader menu━━╮
+  caption: `╭━━𝑩𝑼𝑮𝑨𝑻𝑻𝑰 𝑴𝑬𝑵𝑼 𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫𝑬𝑹━━╮
 *Song Name:* ${videos[0].title}
 
 *Uploaded:* ${videos[0].ago}
@@ -179,7 +179,7 @@ zokou({
 
       let InfoMess = {
   image: { url: Element.thumbnail },
-  caption: `╭━━Bugatti download menu━━╮
+  caption: `╭━━𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝑴𝒆𝒏𝒖 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅━━╮
 *Video Name:* ${Element.title}
 *Uploaded:* ${Element.ago}
 *Author:* ${Element.author.name}
