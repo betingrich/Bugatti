@@ -22,7 +22,7 @@ zokou({ nomCom: "bugatti", categorie: "Menu" }, async (dest, zk, commandeOptions
     const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ * ᴊᴏᴇʟ ᴍᴅ * ═══\n\n";
+    let menuMsg = "  ═══ *𝑩𝑼𝑮𝑨𝑻𝑻𝑰* ═══\n\n";
     /*menuMsg+=`
     
     
