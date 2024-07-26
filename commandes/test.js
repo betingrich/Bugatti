@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "bugatti", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "test", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = ' 𝒀𝒆𝒔 𝑰 𝒂𝒎 *𝑩𝒖𝒈𝒂𝒕𝒕𝒊* \n\n ' + "> 𝑻𝒉𝒆 𝑺𝒖𝒑𝒆𝒓 𝑭𝒂𝒔𝒕 𝑩𝒐𝒕";
     let d = '𝑩𝒚 *𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍*';
@@ -11,7 +11,7 @@ zokou({ nomCom: "bugatti", reaction: "🏎️", nomFichier: __filename }, async 
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
-console.log("mon bugatti");
+console.log("mon test");
 /*module.exports.commande = () => {
   var nomCom = ["bugatti","b"]
   var reaction="☺️"
