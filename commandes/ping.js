@@ -8,7 +8,7 @@ const { default: axios } = require('axios');
 zokou({ nomCom: 'ping',
     desc: 'To check ping',
     Categorie: 'General',
-    reaction: '🕷️', 
+    reaction: '🏎️', 
     fromMe: 'true', 
 
        
