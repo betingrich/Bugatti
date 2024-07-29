@@ -20,7 +20,7 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by Hacking-MD`);
+𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊');
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -40,7 +40,7 @@ Powered by Hacking-MD`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by Hacking-MD`);
+𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
