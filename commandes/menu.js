@@ -66,26 +66,25 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━┓
-┃   Mode: ${mode}
-┃   User : ${s.OWNER_NAME}
-┃
-┣━━━◈𝑴𝑨𝑹𝑰𝑺𝑬𝑳◈━━
-┗━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━┛\n\n`;
+┏━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━
+┃ ⿻Mode: ${mode}
+┃ ⿻User : ${s.OWNER_NAME}
+┃ ⿻Library : Baileys
+️┃ ⿻Prefix : ${s.PREFIXE}
+️┃ ⿻Date : ${date}
+┃ ⿻Time : ${temps}
+┃ ⿻Tools : ${cm.length}
+┃ ⿻Ram : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+┃ ⿻Host : ${os.platform()}
+┃ ⿻ Mode: ${mode}
+┃ ⿻ User : ${s.OWNER_NAME}
+┗━━━◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈━━ \n\n`;
 
-
-    
 
 let menuMsg = `
-┏━━━━━━━━━━━━━━┓
-┣    ◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈
-┣  ◈𝑺𝒖𝒑𝒆𝒓 𝒇𝒂𝒔𝒕 𝑩𝒐𝒕◈
-┗━━━━━━━━━━━━━━┛\n
-
-
-
-
-☆𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍☆
+  ◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈
+ ◈𝑺𝒖𝒑𝒆𝒓 𝒇𝒂𝒔𝒕 𝑩𝒐𝒕◈
+  ☆𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍☆
 `;
 
 
@@ -106,17 +105,11 @@ let menuMsg = `
 
     }
 
-
-
     menuMsg += `
-
-
 ︎┏━━━━━━━━━━━━━━┓
 ️┣   ◈𝑩𝑼𝑮𝑨𝑻𝑻𝑰◈
 ┣ ◈𝑺𝒖𝒑𝒆𝒓 𝑭𝒂𝒔𝒕 𝑩𝒐𝒕◈
 ┗━━━━━━━━━━━━━━┛\n
-
-
 ┏━━━━━━━━━━━━━━┓
 ┃𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊.
 ┗━━━━━━━━━━━━━━┛\n
