@@ -123,7 +123,7 @@ Contributions to *BUGATTI* are welcome! If you have ideas for new features, impr
 
 The *BUGATTI* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BUGATTI*  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of the *𝑩𝑼𝑮𝑨𝑻𝑻𝑰*  to enhance your Whatsapp more enjoyable
 ☣Powered by King Marisel 
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
