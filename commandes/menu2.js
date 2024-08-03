@@ -18,8 +18,8 @@ zokou({ nomCom: "bugatti", categorie: "Menu" }, async (dest, zk, commandeOptions
     cm.map(async (com, index) => { if (!coms[com.categorie])
         coms[com.categorie] = []; coms[com.categorie].push(com.nomCom); });
     const temps = moment(moment()).format("HH:MM:SS");
-    moment.tz.setDefault('asia/karachi ').locale("id");
-    const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
+    moment.tz.setDefault('Africa/Nairobi').locale("id");
+    const date = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
     let menuMsg = "  ═══ *𝑩𝑼𝑮𝑨𝑻𝑻𝑰* ═══\n\n";
@@ -62,12 +62,12 @@ zokou({ nomCom: "bugatti", categorie: "Menu" }, async (dest, zk, commandeOptions
         if (!emoji[cat]) {
             emoji[cat] = "🔋";
         }
-        menuMsg += `${emoji[cat]} ══ *${cat} * ══ ${emoji[cat]}\n`;
+        menuMsg += `${emoji[cat]} ══ *${cat}* ══ ${emoji[cat]}\n`;
         for (const cmd of coms[cat]) {
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://telegra.ph/file/14f58cfe902aec9bcdd90.jpg";
+    var link = "https://telegra.ph/file/b9282142f3318354af3c9.mp4";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©𝑩𝑼𝑮𝑨𝑻𝑻𝑰" }, { quoted: ms });
     }
