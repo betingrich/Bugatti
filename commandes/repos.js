@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/betingrich/king';
-  const img = 'https://telegra.ph/file/0a8ea3c08b51f3ae24e24.jpg';
+  const img = 'https://telegra.ph/file/b9282142f3318354af3c9.mp4';
 
   try {
     const response = await fetch(githubRepo);
@@ -30,7 +30,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
 🏎️ *𝑼𝒑𝒅𝒂𝒕𝒆 𝑶𝒏:* ${repoInfo.lastUpdate}
 🏎️ *𝑶𝒘𝒏𝒆𝒓:* *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳*
 __________________________________
-            *𝑩𝑼𝑮𝑨𝑻𝑻𝑰 *`;
+            *𝑩𝑼𝑮𝑨𝑻𝑻𝑰*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
