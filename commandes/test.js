@@ -6,7 +6,7 @@ zokou({ nomCom: "test", reaction: "🏎️", nomFichier: __filename }, async (de
     let z = ' 𝒀𝒆𝒔 𝑰 𝒂𝒎 *𝑩𝒖𝒈𝒂𝒕𝒕𝒊* \n\n ' + "> 𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕";
     let d = '𝑩𝒚 *𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍*'
     let varmess = z + d;
-    var img = 'https://pin.it/JduXxi8eL';
+    var img = 'https://telegra.ph/file/14f58cfe902aec9bcdd90.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
