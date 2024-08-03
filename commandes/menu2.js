@@ -67,7 +67,7 @@ zokou({ nomCom: "bugatti", categorie: "Menu" }, async (dest, zk, commandeOptions
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://telegra.ph/file/5dacea0c63b75c05d6ff5.jpg";
+    var link = "https://telegra.ph/file/14f58cfe902aec9bcdd90.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©𝑩𝑼𝑮𝑨𝑻𝑻𝑰" }, { quoted: ms });
     }
