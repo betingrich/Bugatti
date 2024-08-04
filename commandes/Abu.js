@@ -36,11 +36,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 *𝑌𝑒𝑠 𝑀𝑦 𝐺𝑢𝑦 𝑊ℎ𝑎𝑡'𝑠 𝑈𝑝?* 
-
-
 *𝐷𝑜 𝑀𝑒 𝑎 𝐹𝑎𝑣𝑜𝑢𝑟 𝐹𝑜𝑙𝑙𝑜𝑤 𝑇ℎ𝑒𝑠𝑒 𝐶ℎ𝑎𝑛𝑛𝑒𝑙𝑠*
-
-
 *Whatsapp channel*
 > https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 
