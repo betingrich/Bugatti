@@ -21,8 +21,8 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*𝑯𝒆𝒍𝒍𝒐 𝑻𝒉𝒊𝒔 𝒊𝒔* *𝑩𝑼𝑮𝑨𝑻𝑻𝑰.*\n 𝒈𝒆𝒕 𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝒊𝒅 *𝒐𝒓*, *𝒑𝒂𝒓𝒊𝒏𝒈 𝑪𝒐𝒅𝒆*  https://joelsession1-4a8c04ad2935.herokuapp.com/pair/
-
+      const gitdata = `*𝑯𝒆𝒍𝒍𝒐 𝑻𝒉𝒊𝒔 𝒊𝒔* *𝑩𝑼𝑮𝑨𝑻𝑻𝑰.*\n  
+🏎️*𝒑𝒂𝒓𝒊𝒏𝒈 𝑪𝒐𝒅𝒆*  https://joelsession1-4a8c04ad2935.herokuapp.com/pair/
 🏎️ *𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚:* ${data.html_url}
 🏎️ *𝑺𝒕𝒂𝒓𝒔:* ${repoInfo.stars}
 🏎️ *𝑭𝒐𝒓𝒌𝒔:* ${repoInfo.forks}
