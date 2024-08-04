@@ -33,7 +33,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
-- <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://bugatti-session.onrender.com"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 
 - <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
