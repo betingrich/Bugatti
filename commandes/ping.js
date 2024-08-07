@@ -1,22 +1,27 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-const moment = require("moment-timezone");
-const { default: axios } = require('axios');
-//const conf = require('../set');
+zokou({ nomCom: "ping", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
+    let z = '𝐁𝐮𝐠𝐚𝐭𝐭𝐢 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐬𝐩𝐞𝐞𝐝 𝐢𝐬';
+    let d = '𝟏𝟎𝟖𝟎.𝟗𝟏𝐌/𝐬';
+    let varmess = z + d;
+    var img = 'https://telegra.ph/file/e359b71ab0fc21d0e6a0a.jpg';
+    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    //console.log("montest")
+});
+console.log("mon test");
+/*module.exports.commande = () => {
+  var nomCom = ["test","t"]
+  var reaction="☺️"
+  return { nomCom, execute,reaction }
+};
 
-
-zokou({ nomCom: 'ping',
-    desc: 'To check ping',
-    Categorie: 'General',
-    reaction: '🏎️', 
-    fromMe: 'true', 
-
-       
-  },
-  async (dest, zk, commandeOptions) => {
-    const { ms, arg, repondre } = commandeOptions;
-    const { start} = new Date().getTime()
-    return repondre('*𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝑹𝒖𝒏𝒊𝒏𝒈 𝒔𝒑𝒆𝒆𝒅 𝒊𝒔*\n ```' +0.1+ '``` *mm/s*') 
-    const { end } = new Date().getTime()
-    await zok.sendMessage('*𝑷𝒐𝒏𝒈!*\n ```' +0.1+ '``` *ms*')
-  }
-)
+async function  execute  (origineMessage,zok) {
+  console.log("Commande saisie !!!s")
+   let z ='Salut je m\'appelle *Zokou* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *Djalega++*'
+      let varmess=z+d
+      var img='https://telegra.ph/file/626e7105422c8908f723d.jpg'
+await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
+}  */ 
