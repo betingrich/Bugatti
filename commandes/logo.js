@@ -15,7 +15,7 @@ zokou({ nomCom: "𝑩𝒖𝒈𝒂𝒕𝒕𝒊",
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
         repondre("* processing...*");
-        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t 𝑳𝒐𝒈𝒐 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊*" }, { quoted: ms });
+        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t *𝑳𝒐𝒈𝒐 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -39,7 +39,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
         await zk.sendMessage(dest, { text: " *\t Traitement en cours ...*" }, { quoted: ms });
        // var idImg = Object.values(imgInfo)[3];
        
-        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t 𝑳𝒐𝒈𝒐 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t *𝑳𝒐𝒈𝒐 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
