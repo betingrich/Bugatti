@@ -1,7 +1,7 @@
 
  {
-  "name": "BUGATI-MD",
-  "version": "2.0.0",
+  "name": "Bugatti",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "Bugatti",
     "whatsapp",
     "whatsapp-bot",
     "keithkeizzah"
    ],
-  "author": "keithkeizzah",
+  "author": "Marisel",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
