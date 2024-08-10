@@ -18,9 +18,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/King?&style=social"></a>
-<a href="https://github.com/betingrich/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/King?style=social"></a>
-<a href="https://github.com/betingrich/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/King?label=Watching&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Bugatti?&style=social"></a>
+<a href="https://github.com/betingrich/JEEP/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Bugatti?style=social"></a>
+<a href="https://github.com/betingrich/JEEP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Bugatti?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -42,7 +42,7 @@
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/JEEP&template=https://github.com/betingrich/King"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Bugatti&template=https://github.com/betingrich/Bugatti"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
 
 
 
@@ -62,7 +62,7 @@
 
 </p>
 
-- <a href="https://github.com/betingrich/JEEP"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/betingrich/Bugatti"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -93,7 +93,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/JEEP/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/Bugatti/fork)
 
 2, TAP ON GET SESSIONS
 
