@@ -1,5 +1,5 @@
 {
-  "name": "BUGATTI",
+  "name": "Bugatti",
   "version": "3.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "Faouz995"
   ],
-  "author": "Marisel",
+  "author": "Faouz995",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
