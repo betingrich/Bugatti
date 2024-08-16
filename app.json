@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍",
+      "value":"𝐁𝐔𝐆𝐀𝐓𝐓𝐈",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍"
+    "value": "𝐊𝐢𝐧𝐠 𝐌𝐚𝐫𝐢𝐬𝐞𝐥"
   },
     "NUMERO_OWNER":
   {
