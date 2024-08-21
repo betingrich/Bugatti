@@ -14,7 +14,7 @@ const conf = require('../set');
 
 zokou(
   {
-    nomCom: 'info',
+    nomCom: 'version',
     reaction: '📑',
     alias: ['i']
   },
