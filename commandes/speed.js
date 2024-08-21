@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "ping", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "speed", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = '𝐁𝐮𝐠𝐚𝐭𝐭𝐢 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐬𝐩𝐞𝐞𝐝 𝐢𝐬';
     let d = '𝟏𝟎𝟖𝟎.𝟗𝟏𝐌/𝐬';
