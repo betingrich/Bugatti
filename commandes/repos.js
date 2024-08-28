@@ -21,7 +21,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*𝐇𝐢 *${ms.pushName}* 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐁𝐮𝐠𝐚𝐭𝐭𝐢*\n  
+      const gitdata = `*𝐇𝐢 𝐔𝐬𝐞𝐫,𝐓𝐡𝐢𝐬 𝐢𝐬 𝐁𝐮𝐠𝐚𝐭𝐭𝐢*\n  
 🥇 *𝐏𝐚𝐢𝐫 𝐂𝐨𝐝𝐞* https://web-vvvf.onrender.com/
 🥇 *𝐑𝐞𝐩𝐨:* ${data.html_url}
 🥇 *𝐒𝐭𝐚𝐫𝐬:* ${repoInfo.stars}
@@ -30,7 +30,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
 🥇 *𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐨𝐧:* ${repoInfo.lastUpdate}
 🥇 *𝐎𝐰𝐧𝐞𝐫:* *𝐌𝐚𝐫𝐢𝐬𝐞𝐥*
 __________________________________
-            *𝐁𝐔𝐆𝐀𝐓𝐓𝐈*`;
+                     *𝐁𝐔𝐆𝐀𝐓𝐓𝐈*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
