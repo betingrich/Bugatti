@@ -1,1 +1,42 @@
-'use strict';function _0x5e72(){const _0x428164=['\x0a\x0a🏎️*𝑶𝒘𝒏𝒆𝒓:*\x20*𝑴𝑨𝑹𝑰𝑺𝑬𝑳*\x0a\x0a__________________________________\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20*𝑩𝑼𝑮𝑨𝑻𝑻𝑰*','lastUpdate','9816KPtAPh','6RlBile','json','1778085PMqlFn','\x0a\x0a🏎️\x20*𝑹𝒆𝒍𝒆𝒂𝒔𝒆\x20𝑫𝒂𝒕𝒆:*\x20','html_url','Général','*𝑯𝒆𝒍𝒍𝒐\x20𝑻𝒉𝒊𝒔\x20𝒊𝒔*\x20*𝑩𝑼𝑮𝑨𝑻𝑻𝑰.*\x0a\x20\x20\x0a\x0a🏎️\x20*𝒑𝒂𝒓𝒊𝒏𝒈\x20𝑪𝒐𝒅𝒆*\x20https://bugatti-session.onrender.com\x0a\x0a🏎️\x20*𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚:*\x20','4473CuknLR','https://telegra.ph/file/be4df116ddc534448b4c3.jpg','updated_at','sendMessage','Error\x20fetching\x20data:','forks','stargazers_count','1071428UpYOeO','\x0a\x0a🏎️\x20*𝑭𝒐𝒓𝒌𝒔:*\x20','Could\x20not\x20fetch\x20data','stars','log','__esModule','6333516yqUdeH','\x0a\x0a🏎️\x20*𝑺𝒕𝒂𝒓𝒔:*\x20','2969608NNRLeW','1558399OgQqVp','created_at','defineProperty','owner','repo','5601816mSPHdU'];_0x5e72=function(){return _0x428164;};return _0x5e72();}function _0x32cf(_0x1c756b,_0xf5ff0f){const _0x5e724e=_0x5e72();return _0x32cf=function(_0x32cfc4,_0x6085fa){_0x32cfc4=_0x32cfc4-0x125;let _0x437e00=_0x5e724e[_0x32cfc4];return _0x437e00;},_0x32cf(_0x1c756b,_0xf5ff0f);}const _0x2e8b84=_0x32cf;(function(_0x1dc109,_0x2d4b47){const _0x3110dc=_0x32cf,_0x896c15=_0x1dc109();while(!![]){try{const _0x279a25=-parseInt(_0x3110dc(0x138))/0x1+parseInt(_0x3110dc(0x137))/0x2+parseInt(_0x3110dc(0x141))/0x3*(-parseInt(_0x3110dc(0x12f))/0x4)+parseInt(_0x3110dc(0x143))/0x5+parseInt(_0x3110dc(0x135))/0x6+parseInt(_0x3110dc(0x128))/0x7*(parseInt(_0x3110dc(0x140))/0x8)+-parseInt(_0x3110dc(0x13d))/0x9;if(_0x279a25===_0x2d4b47)break;else _0x896c15['push'](_0x896c15['shift']());}catch(_0x33688e){_0x896c15['push'](_0x896c15['shift']());}}}(_0x5e72,0xeb3c3));Object[_0x2e8b84(0x13a)](exports,_0x2e8b84(0x134),{'value':!![]});const {zokou}=require('../framework/zokou');zokou({'nomCom':_0x2e8b84(0x13c),'catégorie':_0x2e8b84(0x126),'reaction':'✨','nomFichier':__filename},async(_0xa771c2,_0x163ae0,_0x59eb9f)=>{const _0xa6df17=_0x2e8b84,_0x13ee17='https://api.github.com/repos/betingrich/Bugatti',_0x5116dc=_0xa6df17(0x129);try{const _0x4ac5c3=await fetch(_0x13ee17),_0x4ee5df=await _0x4ac5c3[_0xa6df17(0x142)]();if(_0x4ee5df){const _0x35669b={'stars':_0x4ee5df[_0xa6df17(0x12e)],'forks':_0x4ee5df['forks_count'],'lastUpdate':_0x4ee5df['updated_at'],'owner':_0x4ee5df[_0xa6df17(0x13b)]['login']},_0x39c760=new Date(_0x4ee5df[_0xa6df17(0x139)])['toLocaleDateString']('en-GB'),_0x3b42e9=new Date(_0x4ee5df[_0xa6df17(0x12a)])['toLocaleDateString']('en-GB'),_0x1c1a73=_0xa6df17(0x127)+_0x4ee5df[_0xa6df17(0x125)]+_0xa6df17(0x136)+_0x35669b[_0xa6df17(0x132)]+_0xa6df17(0x130)+_0x35669b[_0xa6df17(0x12d)]+_0xa6df17(0x144)+_0x39c760+'\x0a\x0a🏎️\x20*𝑼𝒑𝒅𝒂𝒕𝒆\x20𝑶𝒏:*\x20'+_0x35669b[_0xa6df17(0x13f)]+_0xa6df17(0x13e);await _0x163ae0[_0xa6df17(0x12b)](_0xa771c2,{'image':{'url':_0x5116dc},'caption':_0x1c1a73});}else console['log'](_0xa6df17(0x131));}catch(_0x581172){console[_0xa6df17(0x133)](_0xa6df17(0x12c),_0x581172);}});
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const { zokou } = require("../framework/zokou");
+
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/betingrich/bugatti';
+  const img = 'https://telegra.ph/file/46131539229f7e5614ea7.jpg';
+
+  try {
+    const response = await fetch(githubRepo);
+    const data = await response.json();
+
+    if (data) {
+      const repoInfo = {
+        stars: data.stargazers_count,
+        forks: data.forks_count,
+        lastUpdate: data.updated_at,
+        owner: data.owner.login,
+      };
+
+      const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
+      const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
+
+      const gitdata = `*𝐇𝐢 *${ms.pushName}* 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐁𝐮𝐠𝐚𝐭𝐭𝐢*\n  
+🥇 *𝐏𝐚𝐢𝐫 𝐂𝐨𝐝𝐞* https://web-vvvf.onrender.com/
+🥇 *𝐑𝐞𝐩𝐨:* ${data.html_url}
+🥇 *𝐒𝐭𝐚𝐫𝐬:* ${repoInfo.stars}
+🥇 *𝐅𝐨𝐫𝐤𝐬:* ${repoInfo.forks}
+🥇 *𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐃𝐚𝐭𝐞:* ${releaseDate}
+🥇 *𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐨𝐧:* ${repoInfo.lastUpdate}
+🥇 *𝐎𝐰𝐧𝐞𝐫:* *𝐌𝐚𝐫𝐢𝐬𝐞𝐥*
+__________________________________
+            *𝐁𝐔𝐆𝐀𝐓𝐓𝐈*`;
+
+      await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
+    } else {
+      console.log("Could not fetch data");
+    }
+  } catch (error) {
+    console.log("Error fetching data:", error);
+  }
+});
