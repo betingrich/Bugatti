@@ -211,7 +211,8 @@ setTimeout(() => {
             const verifCom = texte ? texte.startsWith(prefixe) : false;
             const com = verifCom ? texte.slice(1).trim().split(/ +/).shift().toLowerCase() : false;
            
-         
+
+            
             const lien = conf.URL.split(',')  
 
             
