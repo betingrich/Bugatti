@@ -27,7 +27,7 @@ const {zokou} = require(_0x3dc0a1(0x1c3)), yts = require(_0x3dc0a1(0x1c1)), Base
 zokou({
     'nomCom': _0x3dc0a1(0x1ef),
     'categorie': _0x3dc0a1(0x1b9),
-    'reaction': '💿'
+    'reaction': '🎧'
 }, async (_0x1a81cb, _0x5e2ded, _0x4697a4) => {
     const _0x18e591 = _0x3dc0a1, {
             ms: _0x377990,
@@ -99,7 +99,7 @@ zokou({
 }), zokou({
     'nomCom': _0x3dc0a1(0x1c6),
     'categorie': _0x3dc0a1(0x1b9),
-    'reaction': '🎥'
+    'reaction': '📽️'
 }, async (_0x49889c, _0xcdf720, _0x25e15d) => {
     const _0x39b227 = _0x3dc0a1, {
             ms: _0xf38ba1,
