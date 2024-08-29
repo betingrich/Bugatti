@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/59f16ac3f13daa86c6c4d.jpg">
+    <img alt="wasi" height="400" src="https://telegra.ph/file/92913aaaf7020054fef01.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">BUGATTI</h1>
   </a>
