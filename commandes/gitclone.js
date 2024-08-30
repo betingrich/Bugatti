@@ -3,7 +3,7 @@ const {
 } = require("../framework/zokou");
 zokou({
   'nomCom': 'github',
-  'reaction': '🫠',
+  'reaction': '📃',
   'categorie': "Search"
 }, 
   async (_0x52e003, _0x14d9f6, _0x5f1e4d) => {
