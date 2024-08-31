@@ -16,11 +16,14 @@ if (!VerseRes.ok) return repondre(`Please specify the chapter number or name. Ex
 
 let verseData = await VerseRes.json();
 
-let bibleChapter = `📖 *THE HOLY BIBLE*\n
-📜 *_Book:_* ${verseData.reference}\n
-🔢 *_Verses:_* ${verseData.verses.length}\n
-🤍 *_Content:_* ${verseData.text}\n
-🌍 *_Language_:* ${verseData.translation_name}\n\n`
+let bibleChapter = `📖 *𝐓𝐇𝐄 𝐇𝐎𝐋𝐘 𝐁𝐈𝐁𝐋𝐄*\n
+📜 *_𝑩𝒐𝒐𝒌:_* ${verseData.reference}\n
+🔢 *_𝑽𝒆𝒓𝒔𝒆𝒔:_* ${verseData.verses.length}\n
+🤍 *_𝑾𝒐𝒓𝒅:_* ${verseData.text}\n
+🌍 *_𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆_:* ${verseData.translation_name}
+__________________________________
+    𝐇𝐎𝐋𝐘 𝐁𝐈𝐁𝐋𝐄 𝐁𝐘 𝐁𝐔𝐆𝐀𝐓𝐓𝐈
+      \n\n`
 
 await repondre(bibleChapter);
 
