@@ -1,7 +1,9 @@
-const {zokou} =require("../framework/zokou");
+const { zokou } = require('../framework/zokou');
+const traduire = require("../framework/traduction") ;
+const { default: axios } = require('axios')
 
-king({ nomCom: "bible",
-        reaction: "🎎",
+zokou({ nomCom: "bible",
+        reaction: "📖",
         categorie: "General" }, async (dest, zk, commandeOptions) => {
     
     const { repondre, arg, ms } = commandeOptions; 
