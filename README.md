@@ -61,14 +61,7 @@
 ###
 
 
-###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indratensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=1" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=indratensei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
-</div>
 HOW TO REACH THE OWNER? 
  
    
@@ -122,3 +115,7 @@ Enjoy the diverse features of the *𝑩𝑼𝑮𝑨𝑻𝑻𝑰*  to enhance you
 ☣Powered by King Marisel 
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betingrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false&order=1&hide=html,css,javascript,python,c,c++,php,ruby,go" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=betingrich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
+</div>
