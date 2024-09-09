@@ -76,7 +76,7 @@
 
 ## Features
 
-> System Features
+> ##System Features
 
 - **Multi-Platform Support**: The Bugatti bot is designed to be integrated with multiple platforms, including WhatsApp, Telegram, Slack, and others. 
 
@@ -98,7 +98,7 @@
 
 - **Auto Conversation Closing**: The bot is designed to automatically close conversations with users after a specified period of inactivity.
 
-> Bot Features
+> ## Bot Features
 
 - **End-to-End Ride Booking** : Users can book a ride in Namma Yatri Platform from start to finish using the Karna Chat bot.
 
@@ -128,13 +128,7 @@
 
 
 - **Additional Features** : The bot provides additional features such as support, FAQ section, and more
-## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 
-</div>
 
 ### HOW TO REACH THE OWNER? 
  
