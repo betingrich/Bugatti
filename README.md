@@ -13,13 +13,13 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/ibrahimaitech"><img title="Author" src="https://img.shields.io/badge/ibrahimaitech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25471077266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/ibrahimaitech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ibrahimaitech?label=Followers&style=social"></a>
-<a href="https://github.com/ibrahimaitech/BMW-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ibrahimaitech/BMW-MD?&style=social"></a>
-<a href="https://github.com/ibrahimaitech/BMW-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ibrahimaitech/BMW-MD?style=social"></a>
-<a href="https://github.com/ibrahimaitech/BMW-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ibrahimaitech/BMW-MD?label=Watching&style=social"></a>
+<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
+<a href="https://github.com/betingrich/Bugatti/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Bugatti?&style=social"></a>
+<a href="https://github.com/betingrich/Bugatti/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Bugatti?style=social"></a>
+<a href="https://github.com/betingrich/Bugatti/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Bugatti?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -30,7 +30,7 @@
 
 
 
- <a href="https://ibrahim-adams.vercel.app"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+ <a href="https://web-vvvf.onrender.com/"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 
 
@@ -39,31 +39,28 @@
 
 
 
-### 🧚‍♀️IBRAHIM ADAM'S💫
+### MARISEL
 
 ***
-⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
+🕳️  DEPLOY BOT *[ HEROKU ]*
 
-⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
-
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich/Bugatti)
 
 ****
-⭕  DEPLOY ON [ RENDER ]
+🕳️  DEPLOY ON [ RENDER ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
 
-⭕  DEPLOY ON [ TOYSTACK ]
+🕳️  DEPLOY ON [ TOYSTACK ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
 
-⭕  DEPLOY ON [ KOYEB ]
+🕳️  DEPLOY ON [ KOYEB ]
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
 
- # ⚡ BMW INFO
+ # ⚡ Bugatti INFO
 ***
 
 </p>
@@ -72,7 +69,7 @@
 
 
 ## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -153,19 +150,8 @@ HOW TO REACH THE OWNER?
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Contributions
+Powered by King Marisel 
 
-
-Contributions to *BUGATTI* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO [GOD]
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## License
-
-The *BUGATTI* is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Enjoy the diverse features of the *𝑩𝑼𝑮𝑨𝑻𝑻𝑰*  to enhance your Whatsapp more enjoyable
-☣Powered by King Marisel 
-.
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betingrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false&order=1&hide=html,css,javascript,python,c,c++,php,ruby,go" height="150" alt="languages graph"  />
