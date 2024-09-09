@@ -60,7 +60,7 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
 
- # ⚡ Bugatti INFO
+ #  BUGATTI INFO
 ***
 
 </p>
@@ -136,11 +136,7 @@
 
 </div>
 
-###
-
-
-
-HOW TO REACH THE OWNER? 
+### HOW TO REACH THE OWNER? 
  
    
    <a href="https://wa.me/254740007567">
@@ -150,7 +146,7 @@ HOW TO REACH THE OWNER?
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-Powered by King Marisel 
+## Powered by King Marisel 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div align="center">
