@@ -60,7 +60,7 @@
 
 [![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
 
- #  BUGATTI INFO
+ ##  BUGATTI INFO
 ***
 
 </p>
@@ -76,7 +76,7 @@
 
 ## Features
 
-> ##System Features
+> ## System Features
 
 - **Multi-Platform Support**: The Bugatti bot is designed to be integrated with multiple platforms, including WhatsApp, Telegram, Slack, and others. 
 
