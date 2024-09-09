@@ -26,30 +26,81 @@
    <h1 align="center"                  
 
 
+⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-***
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich/Bugatti)
+
+⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/betingrich/Bugatti)
+
+****
+⭕  DEPLOY ON [ RENDER ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
+
+⭕  DEPLOY ON [ TOYSTACK ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
+
+⭕  DEPLOY ON [ KOYEB ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
+
+## Features
+
+> System Features
+
+- **Multi-Platform Support**: The Bugatti bot is designed to be integrated with multiple platforms, including WhatsApp, Telegram, Slack, and others. 
 
 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</a></p>
-- <a href="https://bugatti-session.onrender.com"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
-
- <a href="https://joelsession1-4a8c04ad2935.herokuapp.com/pair"><img title="GET SESSION OPT 2" src="https://img.shields.io/badge/GET SESSION OPT 2-h?color=red&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-</p>
-
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Bugatti&template=https://github.com/betingrich/Bugatti"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- **Parallel Conversation Support**: The bot is highly scalable and can handle a large number of conversations for multiple users parallel. 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</p>
-   
-##
+- **Conversation Isolation** : The bot is designed to handle multiple conversations at the same time without interfering with other user conversations.
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+- **State-Aware Conversation**: The bot is designed to maintain the state of the conversation with the user. This means that the bot can remember information provided by the user earlier in the conversation and use it to provide more personalized responses. For example, if the user has already provided their location, the bot can use that information to suggest nearby ride options.
+
+
+- **Integrated Template Engine**: The bot includes a template engine that allows the generation of messages and responses to user queries quickly and efficiently in multiple languages.
+
+
+- **Horizontal Scalability**: The bot is designed to be horizontally scalable, meaning that it can handle a large number of users by distributing the workload across multiple servers.
+
+
+- **Auto Conversation Closing**: The bot is designed to automatically close conversations with users after a specified period of inactivity.
+
+> Bot Features
+
+- **End-to-End Ride Booking** : Users can book a ride in Namma Yatri Platform from start to finish using the Karna Chat bot.
+
+
+- **Ride Status Tracking** : The bot provides users with real-time updates on the status of their ride, such as driver
+  ETA and more.
+
+
+- **Ride Cancellation** : Users can cancel their booked ride using the bot.
+
+
+- **Feedback Provision** : The bot allows users to provide feedback on their ride experience.
+
+
+- **Multi-Language Support** : The bot supports multiple languages to cater to a wider user base, currently Kannada,
+  Hindi and English are supported.
+
+
+- **Starred Places Management** : Users can manage their frequently used or favorite locations and use them for booking
+  rides quickly.
+
+
+- **View Past Rides** : Users can view their ride history and check ride details.
+
+
+- **Namma Yatri Open Data** : The bot provides access to Namma Yatri Open Data.
+
+
+- **Additional Features** : The bot provides additional features such as support, FAQ section, and more
 ## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -70,35 +121,6 @@ HOW TO REACH THE OWNER?
   </a>&nbsp;&nbsp;
    <a
 
-    ## Ask any thing
-
-</p>
-
-## STEPS TO DEPLOY YOUR BOT
-
-
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/Bugatti/fork)
-
-2, TAP ON GET SESSIONS
-
-
-
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
-
-
-
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
-
-</p>
-
-
-
-
-
-
-  
-
-</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Contributions
