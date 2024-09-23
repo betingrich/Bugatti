@@ -77,7 +77,7 @@ zokou({ nomCom: "bugmenu", categorie: "Menu" }, async (dest, zk, commandeOptions
             menuMsg += "";
         }
     }
-    var link = "https://files.catbox.moe/zvbprr.jpg";
+    var link = "https://files.catbox.moe/jj3ue2.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©TKM INC" }, { quoted: ms });
     }
