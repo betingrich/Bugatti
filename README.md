@@ -147,3 +147,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betingrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false&order=1&hide=html,css,javascript,python,c,c++,php,ruby,go" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=betingrich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
 </div>
+
+### ❤️Supporters I Love You❤️
+[![Stargazers repo roster for @betingrich/bugatti](http://reporoster.com/stars/dark/betingrich/bugatti)](https://github.com/betingrich/bugatti/stargazers)
+     
+[![Forkers repo roster for @betingrich/bugatti](http://reporoster.com/forks/dark/betingrich/bugatti)](https://github.com/betingrich/bugatti/network/members)
