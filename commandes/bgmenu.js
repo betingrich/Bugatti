@@ -22,7 +22,7 @@ zokou({ nomCom: "bugmenu", categorie: "Menu" }, async (dest, zk, commandeOptions
     const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "≡ 𝙹𝙾𝙴𝙻 𝙱𝚄𝙶 𝙼𝙴𝙽𝚄\n\n";
+    let menuMsg = "≡ BUGATTI BUG MENU\n\n";
     /*menuMsg+=`
     
     
@@ -51,14 +51,14 @@ zokou({ nomCom: "bugmenu", categorie: "Menu" }, async (dest, zk, commandeOptions
 ❑━━━━━━━━━━━━━━━━━❒
 ┃۞docubug
 ┃۞loccrash
-┃۞amountbug <amount>
-┃۞pmbug <number>
-┃۞delaybug <number>
-┃۞trollybug <number>
-┃۞docubug <number>
-┃۞unlimitedbug <number>
-┃۞bombug <number>
-┃۞lagbug <number>
+┃۞amountbug 254....
+┃۞pmbug 254...
+┃۞delaybug 254...
+┃۞trollybug 254...
+┃۞docubug 254...
+┃۞unlimitedbug 254...
+┃۞bombug 254...
+┃۞lagbug 254...
 ┃۞gcbug <grouplink>
 ┃۞delaygcbug <grouplink>
 ┃۞trollygcbug <grouplink>
@@ -67,7 +67,7 @@ zokou({ nomCom: "bugmenu", categorie: "Menu" }, async (dest, zk, commandeOptions
 ┃۞unlimitedgcbug <grplink>
 ┃۞docugcbug <grouplink>
 ❏━━━━━━━━━━━━━━━━━━━❒
-*𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚔𝚒𝚗𝚐 𝚖𝚊𝚛𝚒𝚜𝚎𝚕*\n\n`;
+*Powered By King Marisel*\n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
             emoji[cat] = "";
