@@ -672,7 +672,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
             let msg = `╔════◇◇◇═════╗
-║ welcome to new(s) member(s)
+║ welcome home new(s) member(s)
 ║ *New(s) Member(s) :*
 `;
 
