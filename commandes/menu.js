@@ -35,7 +35,14 @@ const date = moment().format('DD/MM/YYYY');
 ┃⊛│◆ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗖𝗵𝗿𝗼𝗺𝗲 𝗟𝗶𝗻𝘂𝘅
 ┃⊛│◆ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : 𝗠𝗮𝗿𝗶𝘀𝗲𝗹
 ┃⊛└───────────☆
-╰──────────────☆\n${readmore}`;
+╰──────────────☆
+> *Whatsap Channel 1*
+https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> *Whatsapp Channel 2*
+https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+> *Bot Repo*
+https://github.com/betingrich/Bugatti/fork
+\n${readmore}`;
     let menuMsg = `𝐁𝐔𝐆𝐀𝐓𝐓𝐈 𝐏𝐋𝐔𝐆𝐈𝐍𝐒`;
     for (const cat in coms) {
         menuMsg += `
