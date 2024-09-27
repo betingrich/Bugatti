@@ -29,7 +29,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
 ││ *𝐒𝐭𝐚𝐫𝐬:* ${repoInfo.stars}
 ││ *𝐅𝐨𝐫𝐤𝐬:* ${repoInfo.forks}
 ││ *𝐑𝐞𝐥𝐞𝐚𝐬𝐞 𝐃𝐚𝐭𝐞:* ${releaseDate}
-││ *𝐔𝐩𝐝𝐚𝐭𝐞𝐝: ${repoInfo.lastUpdate}
+││ *𝐔𝐩𝐝𝐚𝐭𝐞𝐝:* ${repoInfo.lastUpdate}
 ││ *𝐎𝐰𝐧𝐞𝐫:* 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
 ││ *𝐂𝐡𝐚𝐧𝐧𝐞𝐥:* https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 ││ *𝐘𝐨𝐮𝐭𝐮𝐛𝐞:* https://youtube.com/@wemacomic
