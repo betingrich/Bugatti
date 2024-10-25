@@ -518,38 +518,15 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
 > ${botname}  」\n
 - Hii ${name} user
     
-- *${ucpn}* 
-   
-𖣘───『 *U S E R*』───𖣘
-𖣘 *Name:* ${name}
-𖣘 *Gold:* ${credit}
-𖣘 *Role:* ${role}
-𖣘 *Level:* ${level}
-𖣘 *Xp:* ${exp}
-╰──────────⳹
-   
-𖣘───『 *I N F O*』───𖣘
+- *${ucpn}*    
+𖣘───『 *BUGATTI*』───𖣘
 𖣘 *Bot Name:* ${botname}
 𖣘 *Mode:* ${mode}
 𖣘 *Platform:* ${platform}
-𖣘 *Type:* NodeJs
-𖣘 *Baileys:* Multi Device
 𖣘 *Prefix:* [ *${usedPrefix}* ]
 𖣘 *Uptime:* ${muptime}
-𖣘 *Database:*  ${totalreg}
 ╰──────────⳹
 > © Bugatti by Marisel\n\n
-${readMore}
-𖣘───『 *I N F O  C M D*』───𖣘 
-│ *${totalfeatures}* Commands
-╰──────────⳹
-     
-
-𖣘───『 *INFO*』───𖣘 
-│*note: always remember to use .cleartmp once a day for your bot to last 
- Reply with the number*
-│ to get respected Menu or type the command e.g [.botmenu]*
-╰───────⳹
 ╭───────⳹
 │ *1.* Bot Menu
 │ *2.* Owner Menu
