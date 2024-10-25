@@ -312,7 +312,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
       lkr = `Invalid command. Type ${usedPrefix}list to see available options.`
   }
 
-  conn.sendFile(m.chat, pp, 'Bugattijpg', lkr, m, false, { mentions: [who] })
+  conn.sendFile(m.chat, pp, 'Bugatti.jpg', lkr, m, false, { mentions: [who] })
 
   let done = '👍'
   m.react(done)
