@@ -52,8 +52,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ┃ 📆  *Today's Date:* ${date} 
 ┃ ⏲️  *Current Time:* ${wib}
 ┗━━━━━━━━━━━━━┛
-
-   𖣘 『 *group menu 』𖣘
+    『 *group menu 』
  𖣘 .getbio <@tag/reply>  
  𖣘 .animequote
  𖣘 .Setdesc <text>
@@ -81,7 +80,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .warn @user
  𖣘 .warns
  𖣘 .main
-  𖣘 『 *owner menu* 』𖣘
+  
+  『 *owner menu* 』
  𖣘 .addprem <@tag>
  𖣘 .addowner @user
  𖣘 .allow <@tag>
@@ -110,7 +110,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .config
  𖣘 .listban
  𖣘 .deleteplugin <name>
-   𖣘 『 *fun menu* 』𖣘
+  
+   『 *fun menu* 』
  𖣘 .afk <reason>
  𖣘 .tomp3
  𖣘 .toav
@@ -129,7 +130,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .image
  𖣘 .meme
  𖣘 .quote
- 𖣘 ───『 *reaction* 』─── 𖣘
+
+───『 *reaction* 』─── 
  𖣘 .bully @tag
  𖣘 .cuddle @tag
  𖣘 .cry @tag
@@ -156,7 +158,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .poke @tag
  𖣘 .dance @tag
  𖣘 .cringe @tag
- 𖣘 ───『 *downloader* 』─── 𖣘
+
+───『 *downloader* 』─── 
  𖣘 .facebook <url>
  𖣘 .gdrive 🅟
  𖣘 .gitclone <url>
@@ -176,7 +179,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .ytsearch
  𖣘 .ytmp4 <yt-link>
  𖣘 .wallpaper <query>
- 𖣘 ───『 *game* 』─── 𖣘
+
+───『 *game* 』─── 
  𖣘 .slot <amount>
  𖣘 .chess [from to]
  𖣘 .chess delete
@@ -187,7 +191,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .Maths <modes>
  𖣘 .ppt <rock/paper/scissors>
  𖣘 .tictactoe <tag number>
- 𖣘 ───『 *maker* 』─── 𖣘
+
+───『 *maker* 』─── 
  𖣘 .blur
  𖣘 .difuminar2
  𖣘 .hornycard
@@ -211,7 +216,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .tweet <comment>
  𖣘 .lolicon
  𖣘 .ytcomment <comment>
- 𖣘───『 *sticker* 』─── 𖣘
+
+───『 *sticker* 』─── 
  𖣘 .emojimix <emoji+emoji>
  𖣘 .getsticker
  𖣘 .smaker
@@ -231,7 +237,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .attp2
  𖣘 .attp3
  𖣘 .take <name>|<author>
- 𖣘───『 *audio* 』───𖣘
+
+───『 *audio* 』───
  𖣘 .bass [vn]
  𖣘 .blown [vn]
  𖣘 .deep [vn]
@@ -244,11 +251,13 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .slow [vn]
  𖣘 .smooth [vn]
  𖣘 .tupai [vn]
- 𖣘 ───『 *news* 』─── 𖣘
+
+───『 *news* 』─── 
  𖣘 .news
  𖣘 .technews
  𖣘 .ndtv
- 𖣘 ───『 *economy* 』───𖣘
+
+───『 *economy* 』───
  𖣘 .addgold <@user>
  𖣘 .addxp <@user>
  𖣘 .bank
@@ -267,7 +276,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .wallet
  𖣘 .withdraw
  𖣘 .work
- 𖣘───『 *anime* 』─── 𖣘
+
+───『 *anime* 』─── 
  𖣘 .anime
  𖣘 .akira
  𖣘 .akiyama
@@ -310,7 +320,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .loli
  𖣘 .pokedex <pokemon>
  𖣘 .trace
- 𖣘 ───『 *nsfw* 』─── 𖣘
+
+───『 *nsfw* 』─── 
  𖣘 .genshin
  𖣘 .swimsuit
  𖣘 .schoolswimsuit
@@ -391,7 +402,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .pack
  𖣘 .xvid
  𖣘 .xnxx
- 𖣘 ───『 *tools* 』───𖣘
+
+───『 *tools* 』───
  𖣘 .nowa
  𖣘 .qr <text>
  𖣘 .qrcode <text>
@@ -428,7 +440,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .tts <lang> <task>
  𖣘 .wa
  𖣘 .wikipedia
- 𖣘 ───『 *AI* 』─── 𖣘
+
+───『 *AI* 』─── 
  𖣘 .bing
  𖣘 .dalle
  𖣘 .chatgpt
@@ -440,11 +453,13 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .alexa
  𖣘 .bingimg
  𖣘 .gemini
- 𖣘 ───『 *religion* 』─── 𖣘
+
+───『 *religion* 』─── 
  𖣘 .gita [verse_number]
  𖣘 .quran [surah_number|surah_name]
  𖣘 .bible
- 𖣘 ───『 *Bot Menu* 』─── 𖣘
+
+───『 *Bot Menu* 』─── 
  𖣘 .ping
  𖣘 .runtime
  𖣘 .script
@@ -464,11 +479,12 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .reg <name.age>
  𖣘 .mysn
  𖣘 .unreg 
- 𖣘 ───『 *plugin* 』─── 𖣘
+ 
+───『 *plugin* 』─── 
  𖣘 .plugins
  𖣘 .install <Gist URL><
 
- https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+       *BUGATTI*
 `
 
   conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, null, rpyt)
