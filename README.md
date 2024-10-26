@@ -30,7 +30,7 @@
 
 
 
- <a href="https://web-vvvf.onrender.com/"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
+ <a href="https://replit.com/@mariseltru/Bugatti-pair"><img title="SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 
 
