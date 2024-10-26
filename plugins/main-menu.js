@@ -560,7 +560,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
         title: 'Bugatti',
         body: 'ᴍᴇɴᴜ',
         thumbnailUrl: 'https://files.catbox.moe/u5r9kp.mp4',
-        sourceUrl: 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W',
+        sourceUrl: 'https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x',
         mediaType: 1,
         renderLargerThumbnail: false,
       },
