@@ -4,7 +4,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   var vn = './Assets/mp3/Alive.mp3'
   let url = 'https://github.com/betingrich/Bugatti'
   let murl = 'https:/'
-  let img = 'https://i.imgur.com/tStJm2M.jpeg'
+  let img = 'https://files.catbox.moe/av99j4.jpg'
   let con = {
     key: {
       fromMe: false,
