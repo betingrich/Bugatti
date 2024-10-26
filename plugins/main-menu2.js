@@ -468,7 +468,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  𖣘 .plugins
  𖣘 .install <Gist URL><
 
- Follow the 𝐌𝐀𝐑𝐈𝐒𝐄𝐋'𝐒 𝐇𝐔𝐁—͟͟͞͞𖣘 channel on WhatsApp: https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+ https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 `
 
   conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, null, rpyt)
