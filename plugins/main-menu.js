@@ -513,13 +513,9 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
       },
     },
   }
-  const infoText = `
- ||   Bugatti   ||
-> ${botname}  」\n
-- Hii ${name} user
-    
-- *${ucpn}*    
+  const infoText = `    
 𖣘───『 *BUGATTI*』───𖣘
+𖣘 *${ucpn}*
 𖣘 *Bot Name:* ${botname}
 𖣘 *Mode:* ${mode}
 𖣘 *Platform:* ${platform}
@@ -563,7 +559,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
       externalAdReply: {
         title: 'Bugatti',
         body: 'ᴍᴇɴᴜ',
-        thumbnailUrl: 'https://i.imgur.com/tStJm2M.jpeg',
+        thumbnailUrl: 'https://files.catbox.moe/wx45yv.jpg',
         sourceUrl: 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W',
         mediaType: 1,
         renderLargerThumbnail: false,
