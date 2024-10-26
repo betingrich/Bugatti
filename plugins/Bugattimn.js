@@ -99298,7 +99298,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
  `
   const { result, key, timeout } = await conn.sendMessage(
     m.chat,
-    { video: { url: menuvid }, caption: infoText.trim(),
+    { img: { url:jpg }, caption: infoText.trim(),
     contextInfo: {
       mentionedJid: [m.sender],
       isForwarded: true,
@@ -99507,7 +99507,7 @@ function clockStringP(ms) {
 }
 
 function ucapan() {
-  const time = moment.tz('Africa/Lagos').format('HH')
+  const time = moment.tz('Africa/Nairobi').format('HH')
   let res = 'Good morning ☀️'
   if (time >= 4) {
     res = 'Good Morning 🌄'
