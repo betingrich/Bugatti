@@ -44,13 +44,12 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
   let taguser = '@' + m.sender.split('@s.whatsapp.net')[0]
   let str = `
- Hello ${name} & ${greeting}
+ *Hello ${name} & ${greeting}*
  *_Quote of the day: ${quote}_* 
 ╭───『 *Bugatti*』───
 ┃ *Date:* ${date} 
 ┃ *Current Time:* ${wib}
 │ *Mode:* ${mode}
-│ *Baileys:* Multi Device
 │ *Prefix:* [ *${usedPrefix}* ]
 │ *Uptime:* ${muptime}
 │ *Database:*  ${totalreg}
@@ -77,7 +76,7 @@ ${readMore}
 │ *17.* Religion Menu
 │ *18.* Plugin Menu
 ╰───────
- ${readMore}
+ *Here is the Full Menu*
  ┏━『 *group menu 』
  ┃ .getbio 
  ┃ .animequote
