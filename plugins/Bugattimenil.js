@@ -44,7 +44,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
   let taguser = '@' + m.sender.split('@s.whatsapp.net')[0]
   let str = `
- Hello ${name} & ${greeting}
+ *Hello ${name} & ${greeting}*
  *_Quote of the day: ${quote}_* 
 ╭───『 *USER*』──
 │ *Name:* ${name}
@@ -512,7 +512,7 @@ https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 }
 handler.help = ['main']
 handler.tags = ['group']
-handler.command = ['menu2', 'help2']
+handler.command = ['menu', 'help']
 
 export default handler
 function clockString(ms) {
