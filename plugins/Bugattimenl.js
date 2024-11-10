@@ -19,43 +19,43 @@ let handler = async (m, { conn, usedPrefix, command }) => {
         '*Get ready for the ride, here are your ticket options:*\n\n' +
         '🤖 *' +
         usedPrefix +
-        "Botmenu* - Get full Bot Comands here.\n\n" +
+        "botmenu* - The Bot's secret control panel. What's your command, oh great one?\n\n" +
         '👑 *' +
         usedPrefix +
-        "Ownermenu* - This is personal for Marisel\n\n" +
+        "ownermenu* - The sacred scroll only for the chosen one. Yep, that's you, Boss!\n\n" +
         '🧑‍🤝‍🧑 *' +
         usedPrefix +
-        'Groupmenu* - Use these commands in Groups only!\n\n' +
+        'groupmenu* - Group shenanigans central! Unite, chat, conquer!\n\n' +
         '📥 *' +
         usedPrefix +
-        "Dlmenu* - 'Download anything on this section!\n\n" +
+        "dlmenu* - 'DL' stands for 'Delicious Loot'. Come grab your goodies!\n\n" +
         '🎉 *' +
         usedPrefix +
-        "Funmenu* - Ride along play with frienda and challenge yourself with these games!\n\n" +
+        "funmenu* - The bot's party hat. Games, jokes and instant ROFLs. Let's get this party started!\n\n" +
         '💰 *' +
         usedPrefix +
-        'Economymenu* - Collect coins daily and you can purchase with !\n\n' +
+        'economymenu* - Bling bling! Your personal vault of virtual economy. Spend or save? Choose wisely!\n\n' +
         '🎮 *' +
         usedPrefix +
-        'glGamemenu* - Enter the gaming arena. May the odds be ever in your favor!\n\n' +
+        'gamemenu* - Enter the gaming arena. May the odds be ever in your favor!\n\n' +
         '🎨 *' +
         usedPrefix +
-        'Stickermenu* - A rainbow of stickers for your inner artist. Make your chats pop!\n\n' +
+        'stickermenu* - A rainbow of stickers for your inner artist. Make your chats pop!\n\n' +
         '🧰 *' +
         usedPrefix +
-        "Toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +
+        "toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +
         '🎩 *' +
         usedPrefix +
-        'Logomenu* - Create a logo that screams YOU. Or whispers. You choose the volume.\n\n' +
+        'logomenu* - Create a logo that screams YOU. Or whispers. You choose the volume.\n\n' +
         '🌙 *' +
         usedPrefix +
-        'Nsfwmenu* - The After Dark menu. But remember, sharing adult secrets must be consent-based.'
+        'nsfwmenu* - The After Dark menu. But remember, sharing adult secrets must be consent-based.'
       break
 
-    case 'bugattimenu':
-      lkr = `° ┄──•••───╮
-          *Bugatti Menu
-   ╰───•••──┄ °     
+    case 'botmenu':
+      lkr = `❀° ┄──•••───╮
+          𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
+   ╰───•••──┄ °❀     
    ┏━━━ʕ•㉨•ʔ━━━┓
    ⎪┃  _${usedPrefix}gita_
    ⎪┃  _${usedPrefix}ping_
@@ -68,13 +68,14 @@ let handler = async (m, { conn, usedPrefix, command }) => {
    ⎪┃  _${usedPrefix}donate_
    ⎪┃  _${usedPrefix}groups_
    ⎪┃  _${usedPrefix}blocklist_
-   ⎪┃  _${usedPrefix}listprem_  
+   ⎪┃  _${usedPrefix}listprem_
+   ⎪┃     Bugatti 𖣘 
    ┗━━━ʕ•㉨•ʔ━━━┛` // Your bot menu message here
       break
-    case 'mariselmenu':
-      lkr = `° ┄──•••───╮
-          *Marisel Menu* 
-     ╰───•••──┄ °     
+    case 'ownermenu':
+      lkr = `❀° ┄──•••───╮
+          𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
+     ╰───•••──┄ °❀     
      ┏━━━ʕ•㉨•ʔ━━━┓
      ⎪┃  _${usedPrefix}banchat_
      ⎪┃  _${usedPrefix}unbanchat_
@@ -91,9 +92,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
      ┗━━━ʕ•㉨•ʔ━━━┛` //
       break
     case 'groupmenu':
-      lkr = `° ┄──•••───╮
-          *Group Menu*
-    ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
+    ╰───•••──┄ °❀     
     ┏━━━ʕ•㉨•ʔ━━━┓
     ⎪┃ _${usedPrefix}kick *<@tag>*_
     ⎪┃ _${usedPrefix}promote *<@tag>*_
@@ -115,9 +116,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
       break
     case 'downloadermenu':
     case 'dlmenu':
-      lkr = `° ┄──•••───╮
-          *Download Menu*
-   ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝘿𝙇 𝙈𝙀𝙉𝙐 
+   ╰───•••──┄ °❀     
    ┏━━━ʕ•㉨•ʔ━━━┓
    ⎪┃ _${usedPrefix}play_
    ⎪┃ _${usedPrefix}song_
@@ -139,9 +140,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
    ┗━━━ʕ•㉨•ʔ━━━┛` //
       break
     case 'economymenu':
-      lkr = `° ┄──•••───╮
-          *Economy Menu*
-   ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝙀𝘾𝙊𝙉𝙊𝙈𝙔 
+   ╰───•••──┄ °❀     
    ┏━━━ʕ•㉨•ʔ━━━┓
    ⎪┃  _${usedPrefix}claim/daily_
    ⎪┃  _${usedPrefix}weekly_
@@ -163,9 +164,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
    ┗━━━ʕ•㉨•ʔ━━━┛` //
       break
     case 'funmenu':
-      lkr = `° ┄──•••───╮
-          *Fun Menu*
-    ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
+    ╰───•••──┄ °❀     
     ┏━━━ʕ•㉨•ʔ━━━┓
     ⎪┃  _${usedPrefix}character_
     ⎪┃  _${usedPrefix}truth_
@@ -183,9 +184,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     ┗━━━ʕ•㉨•ʔ━━━┛` //
       break
     case 'animemenu':
-      lkr = `° ┄──•••───╮
-          *Anime Menu*
-    ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
+    ╰───•••──┄ °❀     
     ┏━━━ʕ•㉨•ʔ━━━┓
     ⎪┃  _${usedPrefix}waifu_
     ⎪┃  _${usedPrefix}neko_
@@ -228,9 +229,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     `
       break
     case 'gamemenu':
-      lkr = `° ┄──•••───╮
-          *Game Menu*
-    ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐 
+    ╰───•••──┄ °❀     
     ┏━━━ʕ•㉨•ʔ━━━┓
     ⎪┃  _${usedPrefix}tictactoe_
     ⎪┃  _${usedPrefix}delttt_
@@ -244,9 +245,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     ┗━━━ʕ•㉨•ʔ━━━┛` //
       break
     case 'stickermenu':
-      lkr = `° ┄──•••───╮
-          *Sticker Menu*
-     ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
+     ╰───•••──┄ °❀     
      ┏━━━ʕ•㉨•ʔ━━━┓
      ⎪┃  _${usedPrefix}sticker_
      ⎪┃  _${usedPrefix}take_
@@ -265,9 +266,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
      ┗━━━ʕ•㉨•ʔ━━━┛`
       break
     case 'toolmenu':
-      lkr = `° ┄──•••───╮
-          *Tools Menu*
-     ╰───•••──┄ °     
+      lkr = `❀° ┄──•••───╮
+          𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
+     ╰───•••──┄ °❀     
      ┏━━━ʕ•㉨•ʔ━━━┓
      ⎪┃  _${usedPrefix}autosticker_
      ⎪┃  _${usedPrefix}pdf_
@@ -311,7 +312,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
       lkr = `Invalid command. Type ${usedPrefix}list to see available options.`
   }
 
-  conn.sendFile(m.chat, pp, 'perfil.jpg', lkr, m, false, { mentions: [who] })
+  conn.sendFile(m.chat, pp, 'Bugatti.jpg', lkr, m, false, { mentions: [who] })
 
   let done = '🐥'
   m.react(done)
