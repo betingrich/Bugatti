@@ -17,20 +17,11 @@
       "required": true,
       "value": "Bugatti"
     },
-    "DATABASE_URL": {
-      "description": "your mongodb database url",
-      "required": false,
-      "value": ""
-    },
-    "SESSION_ID": {
-      "description": "your session id",
-      "required": true,
-      "value": ""
-    },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
+          },
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
