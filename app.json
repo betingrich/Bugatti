@@ -1,27 +1,36 @@
 {
   "name": "Bugatti",
-  "description": "Car on the Move.",
+  "description": "No one cares",
   "keywords": [
     "Bugatti"
   ],
-  "repository": "https://github.com/betingrich/Bugatti/tree/main",
+  "repository": "https://github.com/betingrich/Bugatti",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254740007566;Marisel"
+      "value": "254740007567;Marisel"
     },
     "BOTNAME": {
-      "description": "Do not change this",
+      "description": "Give your BOT a name",
       "required": true,
-      "value": "Bugatti"
+      "value": "BUGATTI"
+    },
+    "DATABASE_URL": {
+      "description": "your mongodb database url",
+      "required": false,
+      "value": ""
+    },
+    "SESSION_ID": {
+      "description": "your session id",
+      "required": false,
+      "value": "."
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
       "value": "private"
-          },
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
