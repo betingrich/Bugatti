@@ -1,4 +1,4 @@
-# Fire md termux deployment 
+# Bugatti termux deployment 
 
 ##  Prerequisites
 
