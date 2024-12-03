@@ -1,7 +1,7 @@
 {
     "name": "Bugatti",
     "version": "2.1.0",
-    "description": "A car in Controll",
+    "description": "car in Control",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -19,7 +19,7 @@
     "keywords": [],
     "homepage": "https://github.com/betingrich/Bugatti/",
     "author": {
-        "name": "Marisel"
+        "name": "Betingrich"
     },
     "repository": {
         "type": "git",
